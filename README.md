@@ -58,13 +58,17 @@ jupyter notebook Multiclass_Text_Classification.ipynb
 ## 📸 Screenshots (with Date/Name as per requirements)
 
 ### 1. Model Training & Accuracy Results
-![Model Accuracies](accuracies.png)
+
+![Model Accuracies]
+<img width="1920" height="1080" alt="accuracies" src="https://github.com/user-attachments/assets/9c125472-0b3c-4cc2-8b0f-5a02a4893be1" />
 
 ### 2. Confusion Matrix of Best Model (Random Forest)
-![Confusion Matrix](confusion matrix.png)
+![Confusion Matrix]
+<img width="1920" height="1080" alt="confusion matrix" src="https://github.com/user-attachments/assets/f2a41767-4ff3-4dd3-a934-5ace910a46fb" />
 
 ### 3. Random Predictions from Test Dataset
-![Sample Predictions](sample output.png)
+![Sample Predictions]
+<img width="1920" height="1080" alt="sample output" src="https://github.com/user-attachments/assets/3a52d373-1442-43ed-bec1-c43a92e3d68b" />
 
 ---
 
