@@ -82,14 +82,6 @@ jupyter notebook Multiclass_Text_Classification.ipynb
 
 ---
 
-## 🎥 Demo (Optional)
-If required, a short video demo can be recorded showing:  
-- Notebook execution  
-- Screenshots with date/name  
-- Model outputs  
-
----
-
 ## ✅ Submission Notes
 - Code is in `Multiclass_Text_Classification.ipynb`.  
 - Screenshots with **date/time + candidate name** are attached (`accuracies.png`, `confusion matrix.png`, `sample output.png`).  
